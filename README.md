@@ -1,35 +1,24 @@
 <div align="center">
 
 # The Met Gallery
-### Stretch Tech - Global State Management (Redux)
-<img width="1494" alt="Screenshot 2023-11-04 at 2 31 55 PM" src="https://github.com/daltobello/stretch-tech/assets/130494366/155c0f6e-960b-4ff9-9e02-281e8db3dcb8">
 
-### [Deployed Link](https://stretch-tech-theta.vercel.app/)
+### [Deployed Link](https://stretch-tech-jd.vercel.app/)
 
 </div>
 
-## Abstract
+<img width="1494" alt="280486029-155c0f6e-960b-4ff9-9e02-281e8db3dcb8" src="https://github.com/joh-ann/stretch-tech/assets/126308696/105b691f-d21a-4452-ae2f-a2b4c3cf431e">
+
+### Overview
 The Met Gallery is an immersive virtual museum experience, granting users access to a curated selection of the Metropolitan Museum of Art's European Paintings collection. Dive into a world of timeless masterpieces. This project's primary objective was to create a React application with global state management via Redux Toolkit. Users can click on a painting to delve into its details, save their favorites, and conveniently review their cherished artworks. The application provides smooth navigation, supporting users with browser history controls, and ensures a consistent experience through comprehensive error handling for both server-side and user-related issues.
 
-
-### Contributors
-
-- [Devin Altobello](https://www.linkedin.com/in/devin-altobello-2100036b/)
-- [Johann Dee](https://linkedin.com//in/johanndee)
-- [Patrick Eitel](https://www.linkedin.com/in/patrick-eitel/)
-- [Prissilla Escobar](https://www.linkedin.com/in/prissilla-escobar/)
-
-
 ### Tech Stack
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-</br>
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -37,21 +26,13 @@ The Met Gallery is an immersive virtual museum experience, granting users access
 
 ### Preview
 <details>
-<summary>
-More Images
-</summary> 
+  <summary>More Images</summary>
+ 
+<img width="800" alt="Screenshot 2023-11-04 at 11 44 10" src="https://github.com/daltobello/stretch-tech/assets/126308696/1ead3a49-98f5-41a0-be78-ab5a6f08e0a0">
 
-<div align="center">
-
-<img width="1180" alt="Screenshot 2023-11-04 at 11 44 10" src="https://github.com/daltobello/stretch-tech/assets/126308696/1ead3a49-98f5-41a0-be78-ab5a6f08e0a0">
-
-<img width="1267" alt="Screenshot 2023-11-04 at 12 04 28" src="https://github.com/daltobello/stretch-tech/assets/126308696/849d1291-010f-4df6-bf0b-c16f0bf585a4">
-
-
+<img width="800" alt="Screenshot 2023-11-04 at 12 04 28" src="https://github.com/daltobello/stretch-tech/assets/126308696/849d1291-010f-4df6-bf0b-c16f0bf585a4">
 
 </details>
-
-</div>
 
 ### Goals
 ```
@@ -73,17 +54,15 @@ Users should be able to:
 - See errors if there are server errors
 ```
 
-### Setup
-1. Clone down this repository:
-  ```
-https://github.com/daltobello/stretch-tech
-  ```
-2. `cd` into `stretch-tech` directory and run:
-  ```
-  npm install
-  npm start
-  ```
-3. Enter the following url in your browser: http://localhost:3000/
+### Contributors
+
+- [Johann Dee](https://linkedin.com//in/johanndee)
+  
+- [Devin Altobello](https://www.linkedin.com/in/devin-altobello-2100036b/)
+  
+- [Patrick Eitel](https://www.linkedin.com/in/patrick-eitel/)
+  
+- [Prissilla Escobar](https://www.linkedin.com/in/prissilla-escobar/)
 
 
 
