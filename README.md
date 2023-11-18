@@ -6,10 +6,11 @@
 
 </div>
 
-<img width="1494" alt="280486029-155c0f6e-960b-4ff9-9e02-281e8db3dcb8" src="https://github.com/joh-ann/stretch-tech/assets/126308696/105b691f-d21a-4452-ae2f-a2b4c3cf431e">
-
 ### Overview
 The Met Gallery is an immersive virtual museum experience, granting users access to a curated selection of the Metropolitan Museum of Art's European Paintings collection. Dive into a world of timeless masterpieces. This project's primary objective was to create a React application with global state management via Redux Toolkit. Users can click on a painting to delve into its details, save their favorites, and conveniently review their cherished artworks. The application provides smooth navigation, supporting users with browser history controls, and ensures a consistent experience through comprehensive error handling for both server-side and user-related issues.
+
+### Preview
+<img width="1494" alt="280486029-155c0f6e-960b-4ff9-9e02-281e8db3dcb8" src="https://github.com/joh-ann/stretch-tech/assets/126308696/105b691f-d21a-4452-ae2f-a2b4c3cf431e">
 
 ### Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
